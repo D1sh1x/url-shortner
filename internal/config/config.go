@@ -21,7 +21,7 @@ type HTTPServer struct {
 }
 
 func MustLoad() *Config {
-	os.Setenv("CONFIG_PATH", "C:/Users/Андрей/Desktop/url-shortner/config/local.yaml")
+	os.Setenv("CONFIG_PATH", "C:/Users/avaki/OneDrive/Документы/url-shorterner/url-shortner/config/local.yaml")
 	configPath := os.Getenv("CONFIG_PATH")
 	if configPath == "" {
 		log.Fatal("CONFIG_PATH is not set")
