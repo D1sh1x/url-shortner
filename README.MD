@@ -1,20 +1,4 @@
-Ran tool
-Ran tool
-Ran tool
-Read file: cmd/url-shortner/main.go
-Ran tool
-Ran tool
-Ran tool
-Read file: config/local.yaml
-Search files...
-Read file: internal/http_server/handlers/url/save/save.go
-Read file: internal/http_server/handlers/redirect/redirect.go
-Read file: go.mod
-Read file: Makefile
-Read file: internal/config/config.go
-Я готов составить подробный README для вашего проекта. Вот основные сведения, которые я включу:
 
----
 
 # URL Shortener
 
